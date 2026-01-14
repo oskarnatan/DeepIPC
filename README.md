@@ -12,5 +12,10 @@ Note:
 Step:
 - Open the directory named "xr14". Follow the steps.
 
-To do:
-- upload the dataset
+
+ARCHITECTURE:\
+<img src="xr14/docs/xr14_arch.png" width="600">
+
+
+AUTO DRIVING:\
+<img src="xr14/docs/xr14_2022-06-17_run_2022-06-09_route21.gif" width="600">
